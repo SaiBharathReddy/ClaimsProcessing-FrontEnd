@@ -46,12 +46,12 @@ The frontend will start at http://localhost:5173
 ### * Following is the screen after clicking the "Extract" button.
 <img width="984" height="722" alt="image" src="https://github.com/user-attachments/assets/87e797fb-43ac-48e7-bb35-2fbb9d5a45d5" />  
 
-### * Following are the screens after the extraction is completed. Details are auto-populated.
-<img width="1105" height="853" alt="image" src="https://github.com/user-attachments/assets/9f5c8d19-269e-46da-bf6c-76b5011c104b" />  
+### * Following are the screens after the extraction is completed. Details are auto-populated. Note: PII is hidden
+<img width="1105" height="852" alt="Screenshot 2025-11-05 at 10 25 51 PM" src="https://github.com/user-attachments/assets/adaee06b-2dcd-4c36-907c-c0a08d0d146a" />  
 <img width="1105" height="874" alt="image" src="https://github.com/user-attachments/assets/891e1720-9bda-43c4-a65f-0270a7f6a2fd" />
 
 ### * Following are the screen after "Analyze" button is clicked on the previous screen. Once the button is clicked, we use the information to process the final payout amount and display the claim status (approved/declined).
-<img width="1105" height="852" alt="image" src="https://github.com/user-attachments/assets/e41299b7-3e40-444f-b94c-6eab818eefc4" />  
+<img width="1105" height="852" alt="Screenshot 2025-11-05 at 10 18 12 PM" src="https://github.com/user-attachments/assets/12d6e688-9a27-45bc-b8cf-33d074ddf635" />  
 <img width="1105" height="852" alt="image" src="https://github.com/user-attachments/assets/981dbfec-5a3e-492b-921b-927f47faa047" />
 
 
